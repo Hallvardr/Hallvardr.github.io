@@ -1,74 +1,69 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<title>Smart Text</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>2017 DLAI Team 6</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">2017 DLAI Team 6</h1>
+      <h2 class="project-tagline">DLAI Group 6</h2>
+      <a href="https://github.com/telecombcn-dl/dlcv01" class="btn">View on GitHub</a>
+      <a href="https://github.com/telecombcn-dl/dlcv01/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/telecombcn-dl/dlcv01/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <section class="main-content">
+      <h1>
+<a id="project-work-at-dlcv" class="anchor" href="#project-work-at-dlcv" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Project Work at DLCV</h1>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+<p>This is the project repository for the group 1 at the DLCV. The Team is made up by:</p>
 
-  <link href="http://v4-alpha.getbootstrap.com/examples/narrow-jumbotron/narrow-jumbotron.css" rel="stylesheet">
-	<script src="static/js/submit.js"></script>
-</head>
-<body>
+<p>It is going to be explained below what has been done during the <a href="http://TelecomBCN.DeepLearning.Barcelona">Deep Learning for Computer Vison</a> course at UPC at Summer 2016.</p>
 
-	<p>
-	</p>
-	<div class="container">
-		<div class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills float-right">
-            <li class="nav-item">
-              <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://diplernin.github.io/">About</a>
-            </li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">Smart Text Demo</h3>
-      </div>
+<p><img src="https://raw.githubusercontent.com/telecombcn-dl/dlcv01/master/misc/upc_etsetb.jpg" alt="Universitat Polit�cnica de Catalunya"></p>
 
-      	<form>
-      		<div class="form-group row">
-      			<div class='col-md-4'>
-            <select class="custom-select col-md-4" id="model">
-              <option selected value="poems.txt_gru_v1">Poems</option>
-              <option value="Recipies" value="recipies.txt_v1">Recipies</option>
-              <option value="Illiad" value="Homer_odyssey_Iliad.txt_v1">Illiad</option>
-              <option value="Darwin" value="darwin_origin_of_species.txt_v1">Darwin</option>
-            </select>
-      			</div>
+<h1>
+<a id="task-1" class="anchor" href="#task-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Task 1</h1>
 
-      		<div class='col-md-4'>
+<p>The objective of the first task is to create a neuronal network and to try different layers and different amount of them to observe the behavior and causes of applying one kind of layer or another, playing with the amount of neurons and the kind of activation we apply to them.</p>
 
+<h1>
+<a id="task-2" class="anchor" href="#task-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Task 2</h1>
 
-     			</div>
+<p>The main aim of this second task is to train our own neuronal networks with some different input databases so that we can study the stage of training a neuronal network trying to overfitting it, increasing the data with augmentation of the input database or regularizing the network by using different values of drop out. This may lead us to some different results in terms of accuracy and loss, so we can conclude which metric and values are the most accurate.</p>
 
-      			<div class='col-md-4'>
-              <div class="row">
-                <div class="col">
-                </div>
-                <div class="col">
-                <button type="button" class="btn btn-success" id="btnsubmit">Submit</button>
-                </div>
-            </div>
-      			</div>
+<h1>
+<a id="task-3" class="anchor" href="#task-3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Task 3</h1>
 
-      		</div>
+<p>For the visualization task it was trained a network with the MNIST dataset. On the one hand, it was trained with the original input dataset, and on the other hand, we tried to train it with an input data with gaussian noise added, so that we are able to compare the results obtained and study if the noise does actually affect to the result.</p>
+
+<h1>
+<a id="task-4" class="anchor" href="#task-4" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Task 4</h1>
+
+<h1>
+<a id="task-5" class="anchor" href="#task-5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Task 5</h1>
+
+<p>In this task we wanted to train a neural network to detect the rotation angle of an image. This can for example be used to automatically straighten photos that have been taken with a camera. We used a simple architecture with 1 convolutional layer and 2 fully connected layers. The last layer contains 360 neurons to classify all the possible rotation angles. We use the angle error instead of the classification error because we wanted to measure how close the true angle and the predicted angles are, (the classification error would only help us evaluate when the predicted angle and the true angle are exactly the same).</p>
 
 
-      <strong>Output:</strong>
-	  	<div class="jumbotron">
 
-        <span id="output">Please click on the Submit Button</span>
-		</div>
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/telecombcn-dl/dlcv01">Project Work at DLCV</a> is maintained by <a href="https://github.com/telecombcn-dl">telecombcn-dl</a>.</span>
 
-    <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Advanced Options
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
   </a>
   <div class="collapse" id="collapseExample">
     <div class="card card-block">
