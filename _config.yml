@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 title:        [DLAI Project Team 6 2017]
 description: [Ms.PACMAN with Deep Learning]
 google_analytics: [UA-54473427-1]
-baseurl:      "https://github.com/Hallvardr/Hallvardr.github.io.git"
+baseurl:      ""
 paginate:     1
 values:
       layout: single
