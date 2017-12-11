@@ -3,9 +3,6 @@ theme: jekyll-theme-cayman
 # Setup
 title:        [DLAI Project Team 6 2017]
 description: [Ms.PACMAN with Deep Learning]
-      <a href="https://github.com/telecombcn-dl/dlcv01" class="btn">View on GitHub</a>
-      <a href="https://github.com/telecombcn-dl/dlcv01/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/telecombcn-dl/dlcv01/tarball/master" class="btn">Download .tar.gz</a>
 google_analytics: [UA-54473427-1]
 baseurl:      ""
 paginate:     1
