@@ -1,2 +1,2 @@
-# Hallvardr.github.io
-2017-Dlai-team6 page
+# 2017-dlai-team6
+DLAI 2017 Team 6
