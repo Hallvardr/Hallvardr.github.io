@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
  
 # Setup
 title:        [DLAI Project Team6 2017]
-description: [bite sized learning you can use]
+description: [Ms.PACMAN with Deep Learning]
 google_analytics: [UA-54473427-1]
 baseurl:      ""
 paginate:     1
