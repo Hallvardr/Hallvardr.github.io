@@ -3,9 +3,9 @@ DLAI 2017 Team 6
 
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/ms-pacman_marquee_23x9.jpg?raw=true)
 
-Ms. Pac-Man was released in North America in January 1982, and is one of the most popular arcade video games of all time. This popularity led to its adoption as an official title by Namco, the creator of Pac-Man, which was released in the United States in late 1980.
+*"Ms. Pac-Man was released in North America in January 1982, and is one of the most popular arcade video games of all time. This popularity led to its adoption as an official title by Namco, the creator of Pac-Man, which was released in the United States in late 1980.
 
-The gameplay of Ms. Pac-Man is very similar to that of the original Pac-Man. The player earns points by eating pellets and avoiding ghosts (contact with one causes Ms. Pac-Man to lose a life). Eating an energizer (or "power pellet") causes the ghosts to turn blue, allowing them to be eaten for extra points. Bonus fruits can be eaten for increasing point values, twice per round. As the rounds increase, the speed increases, and energizers generally lessen the duration of the ghosts' vulnerability, eventually stopping altogether.
+The gameplay of Ms. Pac-Man is very similar to that of the original Pac-Man. The player earns points by eating pellets and avoiding ghosts (contact with one causes Ms. Pac-Man to lose a life). Eating an energizer (or "power pellet") causes the ghosts to turn blue, allowing them to be eaten for extra points. Bonus fruits can be eaten for increasing point values, twice per round. As the rounds increase, the speed increases, and energizers generally lessen the duration of the ghosts' vulnerability, eventually stopping altogether."*
 
 There are also some differences from the original Pac-Man:
 
