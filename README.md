@@ -1,5 +1,5 @@
 # 2017-dlai-team6
-DLAI 2017 Team 6
+**DLAI 2017 Team 6**
 
 For more information redirect yourself to our webpage: <a href="https://github.com/Hallvardr/Hallvardr.github.io" class="btn">2017-Dlai-team6 page</a>
 
