@@ -5,9 +5,8 @@ For more information redirect yourself to our webpage: <a href="https://github.c
 
 Our slides con be found at: <a href="https://docs.google.com/presentation/d/1AdxvtAa__Be84M_VmGj8F2wHffJxdI9LwG3GfXguImo/edit#slide=id.gc6f90357f_0_0" class="btn">PACMAN REINFORCEMENT AUTOPLAY</a>
 
-The original code: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/pacman.py" class="btn">pacman.py</a>
-
-From the previous code, we modified the parameters we thought would optimize the program. The modified source code can be found here: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Jupyter/pacman.ipynb" class="btn">pacman.ipynb</a>
+From the original code: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/pacman.py" class="btn">pacman.py</a> , we modified the parameters we thought would optimize the program. 
+The modified source code can be found here: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Jupyter/pacman.ipynb" class="btn">pacman.ipynb</a>
 
 
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/ms-pacman_marquee_23x9.jpg?raw=true)
