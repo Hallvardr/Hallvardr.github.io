@@ -1,6 +1,8 @@
 # 2017-dlai-team6
 DLAI 2017 Team 6
 
+To visit more information redirect yourself to our webpage: <a href="https://github.com/Hallvardr/Hallvardr.github.io" class="btn">2017-Dlai-team6 page</a>
+
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/ms-pacman_marquee_23x9.jpg?raw=true)
 
 *"Ms. Pac-Man was released in North America in January 1982, and is one of the most popular arcade video games of all time. This popularity led to its adoption as an official title by Namco, the creator of Pac-Man, which was released in the United States in late 1980.*
