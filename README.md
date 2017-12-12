@@ -5,7 +5,7 @@ For more information redirect yourself to our webpage: <a href="https://github.c
 
 Our slides con be found at: <a href="https://docs.google.com/presentation/d/1AdxvtAa__Be84M_VmGj8F2wHffJxdI9LwG3GfXguImo/edit#slide=id.gc6f90357f_0_0" class="btn">PACMAN REINFORCEMENT AUTOPLAY</a>
 
-There source code can be found here: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Jupyter/pacman.ipynb" class="btn">
+There source code can be found here: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Jupyter/pacman.ipynb" class="btn">pacman.ipynb</a>
 
 
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/ms-pacman_marquee_23x9.jpg?raw=true)
