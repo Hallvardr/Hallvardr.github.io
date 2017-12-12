@@ -5,9 +5,8 @@ For more information redirect yourself to our webpage: <a href="https://github.c
 
 Our slides con be found at: <a href="https://docs.google.com/presentation/d/1AdxvtAa__Be84M_VmGj8F2wHffJxdI9LwG3GfXguImo/edit#slide=id.gc6f90357f_0_0" class="btn">PACMAN REINFORCEMENT AUTOPLAY</a>
 
-From the original code: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/pacman.py" class="btn">pacman.py</a> , we modified the parameters we thought would optimize the program. 
-The modified source code can be found here: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Jupyter/pacman.ipynb" class="btn">pacman.ipynb</a>
-
+<h2>
+ABSTRACT </h2>
 
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/ms-pacman_marquee_23x9.jpg?raw=true)
 
@@ -28,6 +27,16 @@ There are also some differences from the original Pac-Man:
 
 
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/maxresdefault.jpg?raw=true)
+
+
+<h2>
+Testing </h2>
+
+The main objective of the project is to optimize the execution of the game Ms. Pac-Man. The project introduced reinforcement learning as a major innovation and objective. In order to determine which parameters are going to optimize the program, we will propose some changes that we believe will make a significant difference. The modifications can be found here: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Pacman_mods" class="btn"> Pacman Mods</a>
+
+From the original code: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Pacman_mods/pacman_Original.py" class="btn">pacman_Original.py</a> , we modified the parameters we thought would optimize the program. All the modifications can be found in the folder.
+
+The runned Jupyter code can be found here: <a href="https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Jupyter/pacman.ipynb" class="btn">Jupyter Code</a>
 
 <h3>
 DEMO OF A TRAINED AGENT</h3>
