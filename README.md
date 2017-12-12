@@ -9,7 +9,12 @@ The gameplay of Ms. Pac-Man is very similar to that of the original Pac-Man. The
 
 There are also some differences from the original Pac-Man:
 
-The game has four different mazes that appear in different color schemes, and alternate after each of the game's intermissions are seen. The pink maze appears in levels 1 & 2, the light blue maze appears in levels 3, 4, & 5, the brown maze appears in levels 6 through 9, and the dark blue maze appears in levels 10 through 14. After level 14, the maze configurations alternate every 4th level.
-Three of the four mazes (the first, second, and fourth ones) have two sets of warp tunnels, as opposed to only one in the original maze.
-The walls have a solid color rather than an outline, which makes it easier for a novice player to see where the paths around the mazes are.
-The ghosts' behavioral patterns are different, and include semi-random movement, which prevents the use of patterns to clear each round. Blinky and Pinky move randomly in the first several seconds of each level, until the first reversal. Inky and Sue still use the same movement patterns from the previous game to their respective corners, again until the first reversal.
+- The game has four different mazes that appear in different color schemes, and alternate after each of the game's intermissions are seen. The pink maze appears in levels 1 & 2, the light blue maze appears in levels 3, 4, & 5, the brown maze appears in levels 6 through 9, and the dark blue maze appears in levels 10 through 14. After level 14, the maze configurations alternate every 4th level.
+
+- Three of the four mazes (the first, second, and fourth ones) have two sets of warp tunnels, as opposed to only one in the original maze.
+
+- The walls have a solid color rather than an outline, which makes it easier for a novice player to see where the paths around the mazes are.
+
+- The ghosts' behavioral patterns are different, and include semi-random movement, which prevents the use of patterns to clear each round. Blinky and Pinky move randomly in the first several seconds of each level, until the first reversal. Inky and Sue still use the same movement patterns from the previous game to their respective corners, again until the first reversal.
+
+![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/maxresdefault.jpg?raw=true)
