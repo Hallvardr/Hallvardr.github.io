@@ -21,7 +21,6 @@ There are also some differences from the original Pac-Man:
 
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/maxresdefault.jpg?raw=true)
 
-<h1> 
-<a id="Introduction" class="anchor" href="#Introduction" aria-hidden="true"> </a>DEMO OF A TRAINED AGENT</h1>
+**DEMO OF A TRAINED AGENT**
 
 [![Alt text for your video](https://img.youtube.com/vi/WtCbFWcWwcM/0.jpg)](https://www.youtube.com/watch?v=WtCbFWcWwcM)
