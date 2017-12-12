@@ -3,6 +3,9 @@
 
 For more information redirect yourself to our webpage: <a href="https://github.com/Hallvardr/Hallvardr.github.io" class="btn">2017-Dlai-team6 page</a>
 
+Our slides con be found at: <a href="https://docs.google.com/presentation/d/1AdxvtAa__Be84M_VmGj8F2wHffJxdI9LwG3GfXguImo/edit#slide=id.gc6f90357f_0_0" class="btn">PACMAN REINFORCEMENT AUTOPLAY</a>
+
+
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/ms-pacman_marquee_23x9.jpg?raw=true)
 
 *"Ms. Pac-Man was released in North America in January 1982, and is one of the most popular arcade video games of all time. This popularity led to its adoption as an official title by Namco, the creator of Pac-Man, which was released in the United States in late 1980.*
@@ -19,8 +22,11 @@ There are also some differences from the original Pac-Man:
 
 - The ghosts' behavioral patterns are different, and include semi-random movement, which prevents the use of patterns to clear each round. Blinky and Pinky move randomly in the first several seconds of each level, until the first reversal. Inky and Sue still use the same movement patterns from the previous game to their respective corners, again until the first reversal.
 
+
+
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/maxresdefault.jpg?raw=true)
 
-**DEMO OF A TRAINED AGENT**
+<h3>
+DEMO OF A TRAINED AGENT</h3>
 
 [![Alt text for your video](https://img.youtube.com/vi/WtCbFWcWwcM/0.jpg)](https://www.youtube.com/watch?v=WtCbFWcWwcM)
