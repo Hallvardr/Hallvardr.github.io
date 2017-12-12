@@ -1,7 +1,7 @@
 # 2017-dlai-team6
 DLAI 2017 Team 6
 
-To visit more information redirect yourself to our webpage: <a href="https://github.com/Hallvardr/Hallvardr.github.io" class="btn">2017-Dlai-team6 page</a>
+For more information redirect yourself to our webpage: <a href="https://github.com/Hallvardr/Hallvardr.github.io" class="btn">2017-Dlai-team6 page</a>
 
 ![alt text](https://github.com/Hallvardr/Hallvardr.github.io/blob/master/Images/ms-pacman_marquee_23x9.jpg?raw=true)
 
