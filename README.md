@@ -1,7 +1,7 @@
 # DLAI 2017 Team 6
 **DLAI 2017 Team 6**
 
-For more information redirect yourself to our webpage: <a href="https://github.com/Hallvardr/Hallvardr.github.io" class="btn">2017-Dlai-team6 page</a>
+For more information redirect yourself to our webpage: <a href="https://hallvardr.github.io/" class="btn">2017-Dlai-team6 page</a>
 
 Our slides con be found at: <a href="https://docs.google.com/presentation/d/1AdxvtAa__Be84M_VmGj8F2wHffJxdI9LwG3GfXguImo/edit#slide=id.gc6f90357f_0_0" class="btn">PACMAN REINFORCEMENT AUTOPLAY</a>
 
